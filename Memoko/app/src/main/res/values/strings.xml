@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Memoko</string>
+    <string name="new_create">新規作成</string>
+    <string name="entry">登録</string>
+    <string name="back">戻る</string>
+    <string name="find">検索</string>
+</resources>
